@@ -7,4 +7,4 @@ for(var i =2; i< process.argv.length ; i++){
     // console.log(Number(process.argv[i]));
 }
 
-console.log(sum);
+console.log(sum)
